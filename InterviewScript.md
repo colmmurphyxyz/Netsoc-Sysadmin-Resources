@@ -1,5 +1,7 @@
 # Sysadmin Interview Script
 
+ Hello! Thanks for taking a look at this resource that will hopefully be used for a long time even when I have long moved on and graduated. This will contain a general script for when doing interviews for Sysadmin roles. Keep in mind, context is very important here. If interviewing 1st years, or people with not much experience, the technical assesment part can be skipped fully if required. This is a resource to help, you do not need to follow it strictly, but merely use it as a tool to aid you. If more infrastructure is built in the future, do not be afraid to create some changes and add that to the technical assesment part, and get rid of the parts we no longer have/use. Good luck !
+
 ## Introduction (5 minutes)
 
 ### Welcome and Introduction:
