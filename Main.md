@@ -1,0 +1,1 @@
+Welcome to the Netsoc Sysadmin Resources Repository! This repository is designed to provide essential tools, documents, and guidelines for the dedicated sysadmins of our college society. Whether you're preparing for interviews, looking for documentation, or seeking assistance with various sysadmin tasks, you'll find valuable resources here.

@@ -11,6 +11,14 @@
             "id": "b9bd5cbf04446a8b",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b5f359930f76efd3",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Interview Script.md",
@@ -19,7 +27,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,6 +155,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c4b1ff2f6476966",
-  "lastOpenFiles": []
+  "active": "b5f359930f76efd3",
+  "lastOpenFiles": [
+    "README.md",
+    "Main.md",
+    "Obsidian.md",
+    "Untitled",
+    "recruitment/Interview Script.md",
+    "Interview Script.md",
+    "recruitment",
+    "web",
+    "cloud"
+  ]
 }

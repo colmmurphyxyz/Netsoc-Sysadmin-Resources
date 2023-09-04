@@ -19,6 +19,11 @@
 
 - Can you describe any relevant coursework or personal projects that demonstrate your technical skills, particularly in cloud infrastructure and web development?
 
+### Languages / Tools
+- Docker
+- Ansible
+- Git
+
 ### Cloud Infrastructure:
 
 - Have you worked with cloud platforms like AWS, Azure, or Google Cloud? If so, provide an example of a project where you utilized cloud services.

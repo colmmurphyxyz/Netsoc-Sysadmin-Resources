@@ -34,11 +34,11 @@ Welcome to the Netsoc Sysadmin Resources Repository! This repository is designed
 
 ## How to Get Started
 
-1. Clone this repository to your local machine to access the resources.
 
-2. Explore the folders and documents relevant to your current tasks or areas of interest.
-
-3. Contribute by opening issues, suggesting improvements, or submitting your own resources via pull requests.
+1. This repo is written and maintained using [Obsidian](https://obsidian.md/). It consists of interlinked markdown 
+3. Install Obsidian, clone this repository to your local machine and open the folder as an Obsidian vault.
+4. Explore the folders and documents relevant to your current tasks or areas of interest.
+5. Contribute by opening issues, suggesting improvements, or submitting your own resources via pull requests.
 
 We believe that a well-equipped sysadmin team is essential for the success of our college society's tech initiatives. Feel free to reach out to the repository maintainers if you have any questions or suggestions.
 
