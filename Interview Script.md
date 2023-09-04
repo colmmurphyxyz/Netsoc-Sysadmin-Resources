@@ -38,6 +38,8 @@
 - Share an example of a challenging technical problem you've encountered and explain how you approached solving it.
 
 ## Passion and Motivation (10 minutes)
+Attitude > Skills
+If someone is willing to learn we can teach them the skills necessary for the position
 
 ### Passion for Technology:
 
@@ -46,6 +48,7 @@
 ### Learning and Growth:
 
 - How do you stay updated with the latest technology trends and developments in the field?
+- Is there any languages or frameworks you are interested in learning in the future?
 
 ## Teamwork and Communication (10 minutes)
 
