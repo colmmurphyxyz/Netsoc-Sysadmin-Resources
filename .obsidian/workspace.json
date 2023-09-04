@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Script.md",
+                "file": "recruitment/Interview Script.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview Script.md",
+                "file": "recruitment/Interview Script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview Script.md",
+                "file": "recruitment/Interview Script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview Script.md"
+                "file": "recruitment/Interview Script.md"
               }
             }
           }
@@ -147,5 +147,9 @@
     }
   },
   "active": "7c4b1ff2f6476966",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "recruitment",
+    "web",
+    "cloud"
+  ]
 }

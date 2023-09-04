@@ -19,6 +19,10 @@
 
 - Can you describe any relevant coursework or personal projects that demonstrate your technical skills, particularly in cloud infrastructure and web development?
 
+### Previous Experience
+- Can you talk about your previous projects, Web Dev / programming assignments etc...
+- If you were to redo this project, what would you have changed / done differently?
+
 ### Cloud Infrastructure:
 
 - Have you worked with cloud platforms like AWS, Azure, or Google Cloud? If so, provide an example of a project where you utilized cloud services.
